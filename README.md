@@ -1,1 +1,1 @@
-"# HAndroidTemplateProject" 
+# HAndroidTemplateProject
